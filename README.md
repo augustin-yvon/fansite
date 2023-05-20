@@ -1,4 +1,4 @@
-# FANSITE
+# FanSite
 
 Ce projet est un exemple de site web de fans contenant des actualités, des réalisations, des événements passés et à venir, etc. J'ai choisi le jeu Horizon Zero Dawn, qui est un open-world se déroulant dans un futur lointain, où la civilisation humaine s'est effondrée et où les machines dominent.
 
